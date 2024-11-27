@@ -48,6 +48,7 @@ public class Calculator extends JFrame implements ActionListener, FocusListener 
         eight = new JButton("8");
         nine = new JButton("9");
         zero = new JButton("0");
+        // one=new JButton("3");
 
         // Add components to the frame
         add(l_num1);
